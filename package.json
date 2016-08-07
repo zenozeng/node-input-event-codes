@@ -1,6 +1,6 @@
 {
   "name": "input-event-codes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Input event codes from linux/input-event-codes.h.",
   "main": "dist/index.js",
   "scripts": {
