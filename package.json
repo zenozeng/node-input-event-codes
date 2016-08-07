@@ -4,7 +4,7 @@
   "description": "Input event codes from linux/input-event-codes.h.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zenozeng/node-input-event-codes/issues"
   },
-  "homepage": "https://github.com/zenozeng/node-input-event-codes#readme"
+  "homepage": "https://github.com/zenozeng/node-input-event-codes#readme",
+  "devDependencies": {
+    "typescript": "^2.1.0-dev.20160806"
+  }
 }
