@@ -1,0 +1,19 @@
+{
+  "name": "node-input-event-codes",
+  "version": "0.1.0",
+  "description": "Input event codes from linux/input-event-codes.h.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zenozeng/node-input-event-codes.git"
+  },
+  "author": "Zeno Zeng",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/zenozeng/node-input-event-codes/issues"
+  },
+  "homepage": "https://github.com/zenozeng/node-input-event-codes#readme"
+}
