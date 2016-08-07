@@ -1,6 +1,6 @@
 {
-  "name": "node-input-event-codes",
-  "version": "0.1.0",
+  "name": "input-event-codes",
+  "version": "1.0.0",
   "description": "Input event codes from linux/input-event-codes.h.",
   "main": "dist/index.js",
   "scripts": {
